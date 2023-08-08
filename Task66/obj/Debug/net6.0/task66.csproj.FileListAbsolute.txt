@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\bin\Debug\net6.0\task66.exe
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\bin\Debug\net6.0\task66.deps.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\bin\Debug\net6.0\task66.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\bin\Debug\net6.0\task66.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\bin\Debug\net6.0\task66.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\refint\task66.dll
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.pdb
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\task66.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\04. Знакомство с языком программирования С#\Homework\Seminar9\task66\obj\Debug\net6.0\ref\task66.dll
